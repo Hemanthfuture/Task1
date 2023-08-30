@@ -14,7 +14,7 @@ body{
     color: white;
 }
 #header{
-    background: url(images/hemu4.png);
+    background: url(hemu4.png);
     background-position:center;
     background-size:cover;
     width: 100vw;
